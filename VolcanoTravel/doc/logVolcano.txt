@@ -1,0 +1,9 @@
+Time = Sat Nov 30 19:36:38 EET 2019Employee = 5Confirmed Room Reservation 6
+Time = Sat Nov 30 19:58:08 EET 2019 Employee 5 corrected a room reservation
+Time = Sat Nov 30 20:19:53 EET 2019 Employee 5 corrected a room reservation
+Time = Sat Nov 30 20:21:58 EET 2019 Employee 5 corrected a room reservation
+Time = Sat Nov 30 20:34:23 EET 2019Employee = 5Confirmed Room Reservation 2
+Time = Sat Nov 30 20:36:09 EET 2019 Employee 5 corrected a room reservation
+Time = Sat Nov 30 20:51:25 EET 2019Employee = 5Confirmed Room Reservation 1
+Time = Sun Dec 01 00:20:12 EET 2019 Employee 5 created a car reservation
+Time = Sun Dec 01 00:29:48 EET 2019Employee = 5Confirmed Car Reservation 2
